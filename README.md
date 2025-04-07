@@ -1,2 +1,1 @@
-kanki şimdi bu python ile otomatik bağlantısını girdiğiniz dosyayı o klosörün içine yüklüyor ve otomatik olarak açıyor
-kullanım örnekleri : loader & zararlı yazılım
+loader st34ler icin kullanılabilecek basit bir kod embesiller için exeyi indirip aciyor
